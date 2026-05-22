@@ -36,3 +36,17 @@ Fact Tables
 Dimension Tables
 Surrogate Keys
 Business-friendly reporting views
+
+**License**
+
+This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+
+
+
+**About Me**
+Hey! 👋 I'm Mansi Gautam — a data enthusiast who loves working with SQL, Power BI, and Data Warehousing 📊✨
+Currently learning, building projects, and exploring the world of analytics one dataset at a time 🚀
+
+🔗 Let’s connect on LinkedIn - https://www.linkedin.com/in/mansi-gautam-7739a31b5/
+💼 Open to networking & learning
+📩 mansigautam941@gmail.com
